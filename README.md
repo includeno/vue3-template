@@ -38,7 +38,7 @@ npm run lint
 
 # Library
 
-ant-design-vue
+## ant-design-vue
 
 ```
 yarn add ant-design-vue@3.2.15
@@ -46,9 +46,28 @@ yarn add ant-design-vue@3.2.15
 
 
 
-Less & less-loader
+## Less & less-loader
 
 ```
-yarn add less@4.1.3
-yarn add less-loader@11.1.0
+yarn add less@2.7.3
+yarn add less-loader@6.2.0
 ```
+
+
+
+
+
+# Errors
+
+
+
+
+
+### [less] Inline JavaScript is not enabled. Is it set in your options?
+
+Solution:
+
+https://blog.csdn.net/wuyujin1997/article/details/111999322
+
+
+

@@ -1,5 +1,6 @@
 let path = require('path')
 const webpack = require('webpack')
+const resolve = require("@vitejs/plugin-vue");
 
 module.exports = {
     publicPath: process.env.VUE_APP_PUBLIC_PATH,

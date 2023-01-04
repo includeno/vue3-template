@@ -55,13 +55,40 @@ yarn add less-loader@6.2.0
 
 
 
+## vue-blu
+
+```
+yarn add vue-blu@0.1.9
+```
+
+
+
+## Vue plugin
+
+```
+yarn add vue-router@next
+yarn add vuex@4.1.0
+```
+
+
+
+## axios
+
+```
+yarn add axios@1.2.2
+```
+
+
+
+## Js-cookie
+
+```
+yarn add js-cookie@2.2.1
+```
+
 
 
 # Errors
-
-
-
-
 
 ### [less] Inline JavaScript is not enabled. Is it set in your options?
 
@@ -69,5 +96,8 @@ Solution:
 
 https://blog.csdn.net/wuyujin1997/article/details/111999322
 
-
+```
+yarn add less@2.7.3
+yarn add less-loader@6.2.0
+```
 

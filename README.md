@@ -46,8 +46,9 @@ yarn add ant-design-vue@3.2.15
 
 
 
-
+Less & less-loader
 
 ```
-less-loader@7.2.0
+yarn add less@4.1.3
+yarn add less-loader@11.1.0
 ```
